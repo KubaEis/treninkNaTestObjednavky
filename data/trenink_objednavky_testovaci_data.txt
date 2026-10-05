@@ -1,0 +1,15 @@
+Jan Novák;jan.novak@email.cz;Herní myš;2599,99;2
+Eva Dvořáková;eva.dvorakova@example.cz;Klávesnice;1499,00;1
+Petr Černý;petr.cerny@firma.eu;Monitor;5999,90;2
+Lucie Malá;lucie.mala@shop.cz;Grafická karta;18999,50;1
+Adam Veselý;adam123@mail.cz;Herní myš;799,00;10
+jan Novák;jan.novak@email.cz;Herní myš;2599,99;2
+Karel Dlouhý;karel.dlouhy-email.cz;Monitor;4599,00;1
+Anna Bílá;anna.bila@email.cz;Myš;899,00;2
+Tomáš Král;tomas.kral@email.cz;Herní myš;999;2
+Petra Svobodová;petra.svobodova@email.cz;Klávesnice;-100,00;1
+Marek Novotný;marek.novotny@email.cz;Monitor;3499,00;0
+Jana Pokorná;jana.pokorna@email.cz;Grafická karta;15999,00;11
+Pavel Kučera;;Herní myš;1299,00;3
+Alena Procházková;alena.prochazkova@email.cz;Monitor;7299,00;
+David Jelínek;david.jelinek@email.cz;Klávesnice;1899,00;2;navíc
