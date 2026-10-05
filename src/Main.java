@@ -1,5 +1,5 @@
 void main() throws IOException {
-    Validator val =  new Validator();
+    ValidatorObjednavek val =  new ValidatorObjednavek();
     List<Objednavka> obj = new ArrayList<>();
     Path objednavky = Path.of("data", "trenink_objednavky_testovaci_data.txt");
     //Path piloti = Path.of("data", "trenink_piloti_testovaci_data.txt");

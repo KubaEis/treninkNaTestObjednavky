@@ -1,8 +1,6 @@
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
 import java.util.regex.Pattern;
 
-public class Validator {
+public class ValidatorObjednavek {
 
     // Regulární výrazy pro jednotlivá pole
     private Pattern patternJmeno = Pattern.compile("^[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ][a-záčďéěíňóřšťúůýž]+\\s+[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ][a-záčďéěíňóřšťúůýž]+$");
